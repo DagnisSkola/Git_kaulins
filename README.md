@@ -14,3 +14,5 @@
 -[ ] Projektā ieviests jauns zars (branch)
 -[ ] Sapludināt zaru ar master zaru (merge)
 -[ ] Novērsts klūdas pieteikums (issue)
+RAAAAg
+sadl;jklasd
