@@ -6,11 +6,11 @@
 
 
 ### **Darāmo darbu saraksts**
--[x] Uzsākta lokālā Java projekta versionēšana ar Git
--[x] Izveidots GitHub konts
--[x] Izveidota GitHub krātuve
--[ ] Papildināto GitHub saturu iegūt lokāli lietošanai
--[ ] Projektam pievienots vel viens programmētājs (līdzdalībnieks)
--[ ] Projektā ieviests jauns zars (branch)
--[ ] Sapludināt zaru ar master zaru (merge)
--[ ] Novērsts klūdas pieteikums (issue)
+- [x] Uzsākta lokālā Java projekta versionēšana ar Git
+- [x] Izveidots GitHub konts
+- [x] Izveidota GitHub krātuve
+- [ ] Papildināto GitHub saturu iegūt lokāli lietošanai
+- [ ] Projektam pievienots vel viens programmētājs (līdzdalībnieks)
+- [ ] Projektā ieviests jauns zars (branch)
+- [ ] Sapludināt zaru ar master zaru (merge)
+- [ ] Novērsts klūdas pieteikums (issue)
